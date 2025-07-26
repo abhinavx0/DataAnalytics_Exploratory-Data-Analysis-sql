@@ -1,6 +1,28 @@
 # Exploratory Data Analysis project
+
 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
-This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+---
+
+## Objective
+
+To build a reusable and modular library of SQL queries that enables fast, insightful data exploration, trend analysis, and segmentation. This project is created for:
+
+- Data Analysts  
+- Business Intelligence (BI) Professionals  
+- SQL Learners  
+
+The goal is to extract actionable insights from structured relational databases using clean, documented, and production-ready SQL.
+
+---
+
+##  Features
+
+- Modular SQL scripts  
+- Commented queries for easy understanding  
+- Uses window functions, aggregation, filtering, and joins  
+- Real-world business scenarios: customer behavior, product trends, sales performance  
+- Compatible with MYSQL.
 
 ---
 ## 🛡️ License
